@@ -1,0 +1,30 @@
+:root {
+    --max-content-width: 1280px;
+}
+
+
+.view {
+    max-width: var(--max-content-width);
+    margin: 0 auto;
+    position: relative;
+}
+body{
+    background-color: fcfeff;
+}
+.w-max-900{
+    width: 85vw;
+    max-width: 900px;
+}
+.w-max-1250{
+    max-width: 1250px;
+}
+.color-red{
+    color: #ef4444;
+}
+.color-white{
+    color: white;
+}
+
+.table-max-width{
+    max-width: calc(var(--max-content-width) - 500px);
+}
