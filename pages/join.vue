@@ -109,7 +109,7 @@ const steps = [
         description: "在进入服务器前请确保您已经加入了QQ群，以防被当作异常玩家踢出",
         details: [
             "QQ群号：906380735",
-            "点击 <a href='https://www.minecraft.net/zh-hans/download' target='_blank'>这里</a> 加入我们的语音频道",
+            "点击 <a href='https://www.kookapp.cn/app/invite/0idhG6' target='_blank'>这里</a> 加入我们的语音频道",
         ]
     },
     {
