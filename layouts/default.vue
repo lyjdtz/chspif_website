@@ -26,11 +26,6 @@
 
                                 </UiNavigationMenuLink>
                             </UiNavigationMenuItem>
-                            <UiNavigationMenuItem>
-                                <UiNavigationMenuLink as-child>
-                                    <UiButton to="/rules" variant="ghost" size="sm">规则</UiButton>
-                                </UiNavigationMenuLink>
-                            </UiNavigationMenuItem>
                         
                         
                         </UiNavigationMenuList>
@@ -58,9 +53,7 @@
                                                     <Icon name="lucide:external-link" class="h-4 w-4" />
                                                 </UiButton>
                                             </a>
-                                            
-                                            <UiButton variant="ghost" class="justify-start text-base" to="/rules">规则
-                                            </UiButton>
+                            
                                         
                                         </div>
                                     </UiScrollArea>
