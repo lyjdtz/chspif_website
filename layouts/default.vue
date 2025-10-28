@@ -110,7 +110,12 @@
                                 </NuxtLink>
                                 <br/>
                                 <NuxtLink class="font-semibold hover:text-primary" target="_blank"
-                                    to="https://www.kookapp.cn/app/invite/0idhG6">语音频道
+                                    to="https://www.kookapp.cn/app/invite/0idhG6">kook频道
+                                    <Icon name="lucide:external-link" class="h-4 w-4" />
+                                </NuxtLink>
+                                <br/>
+                                <NuxtLink class="font-semibold hover:text-primary" target="_blank"
+                                    to="https://oopz.cn/i/7XZYQD">oopz频道
                                     <Icon name="lucide:external-link" class="h-4 w-4" />
                                 </NuxtLink>
                             </li>
