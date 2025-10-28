@@ -5,7 +5,7 @@
                 <div class="flex items-center gap-10">
                     <NuxtLink to="/" class="flex items-center gap-3">
                         <!-- eslint-disable-next-line vue/html-self-closing -->
-                        <img src="https://img.cdn1.vip/i/68fc88f5e2ee1_1761380597.webp" fit="contain"
+                        <img src="https://youke1.picui.cn/s1/2025/10/29/690120ce6e3a0.png" fit="contain"
                             alt="Craft233 Logo" title="Craft233 Logo" class="h-6 object-contain lg:h-8" />
                         <!-- <span class="font-semibold lg:text-lg">Craft233</span> -->
                     </NuxtLink>
