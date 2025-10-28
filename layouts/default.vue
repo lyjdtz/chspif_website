@@ -18,6 +18,16 @@
                             </UiNavigationMenuItem>
                             <UiNavigationMenuItem>
                                 <UiNavigationMenuLink as-child>
+                                    <a href="http://114.66.27.86:8100/" target="_blank">
+                                        <UiButton variant="ghost" size="sm">网页地图
+                                            <Icon name="lucide:external-link" class="h-4 w-4" />
+                                        </UiButton>
+                                    </a>
+
+                                </UiNavigationMenuLink>
+                            </UiNavigationMenuItem>
+                            <UiNavigationMenuItem>
+                                <UiNavigationMenuLink as-child>
                                     <a href="https://lyjdtz.life/chspif" target="_blank">
                                         <UiButton variant="ghost" size="sm">公告与更新
                                             <Icon name="lucide:external-link" class="h-4 w-4" />
@@ -26,8 +36,6 @@
 
                                 </UiNavigationMenuLink>
                             </UiNavigationMenuItem>
-                        
-                        
                         </UiNavigationMenuList>
                     </UiNavigationMenu>
                 </div>
@@ -48,13 +56,16 @@
                                         <div class="flex flex-col gap-2">
                                             <UiButton variant="ghost" class="justify-start text-base" to="/">首页
                                             </UiButton>
-                                            <a href="https://docs.craft233.top" target="_blank">
+                                            <a href="http://114.66.27.86:8100/" target="_blank">
+                                                <UiButton variant="ghost" class="justify-start text-base">网页地图
+                                                    <Icon name="lucide:external-link" class="h-4 w-4" />
+                                                </UiButton>
+                                            </a>
+                                            <a href="https://lyjdtz.life/chspif" target="_blank">
                                                 <UiButton variant="ghost" class="justify-start text-base">公告与更新
                                                     <Icon name="lucide:external-link" class="h-4 w-4" />
                                                 </UiButton>
                                             </a>
-                            
-                                        
                                         </div>
                                     </UiScrollArea>
                                 </template>
