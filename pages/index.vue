@@ -1,7 +1,7 @@
 <template>
   <NuxtLayout>
     <UiContainer class="relative flex flex-col items-center justify-center gap-y-12 py-10 lg:h-[720px] lg:flex-row ">
-      <img src="https://youke1.picui.cn/s1/2025/10/29/69011fd0dd4bf.png" alt="Server image"
+      <img src="/assets/img/index/logo.png" alt="Server image"
         :title="`Craft233 Server image`" class="h-[200px] object-cover md:w-[600px] lg:h-full" />
       <div class="flex h-full items-center justify-center">
         <div>
