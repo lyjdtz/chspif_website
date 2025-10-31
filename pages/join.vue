@@ -111,6 +111,13 @@ const steps = [
             "QQ群号：906380735",
             "点击 <a href='https://www.kookapp.cn/app/invite/0idhG6' target='_blank'>这里</a> 加入我们的语音频道",
         ]
+    },    {
+        title: "下载辅助mod和增强材质包（可选）",
+        description: "这里整理了一些适用于1.21.10 Fabric客户端的mod和增强材质包",
+        details: [
+            "点击 <a href='https://lyjdtz-1300831543.cos.ap-nanjing.myqcloud.com/chspif_mods.zip' target='_blank'>这里</a> 下载辅助mod，这些mod包含了客户端性能优化、生电辅助mod等,但它并不会让你的游戏界面过于臃肿",
+            "点击 <a href='https://lyjdtz-1300831543.cos.ap-nanjing.myqcloud.com/chspif_resourcepacks.zip' target='_blank'>这里</a> 下载增强材质包，它修改了游戏内部分材质使得界面更加舒适，但该增强材质包并不包含主材质包，如需修改整体材质，你需要手动添加主材质包",
+        ]
     },
     {
         title: "进入服务器",
