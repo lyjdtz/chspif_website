@@ -125,7 +125,7 @@ const steps = [
         details: [
             "游戏版本为 1.21.10",
             "服务器同时兼容正版和离线玩家，我们更推荐前者",
-            "服务器ip：chspif.xyz"
+            "服务器ip：mc.chspif.xyz"
         ]
     },
     {
