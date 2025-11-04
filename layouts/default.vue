@@ -18,7 +18,7 @@
                             </UiNavigationMenuItem>
                             <UiNavigationMenuItem>
                                 <UiNavigationMenuLink as-child>
-                                    <a href="http://114.66.27.86:8100/" target="_blank">
+                                    <a href="http://202.189.9.217:38100/" target="_blank">
                                         <UiButton variant="ghost" size="sm">网页地图
                                             <Icon name="lucide:external-link" class="h-4 w-4" />
                                         </UiButton>
@@ -56,7 +56,7 @@
                                         <div class="flex flex-col gap-2">
                                             <UiButton variant="ghost" class="justify-start text-base" to="/">首页
                                             </UiButton>
-                                            <a href="http://114.66.27.86:8100/" target="_blank">
+                                            <a href="http://202.189.9.217:38100/" target="_blank">
                                                 <UiButton variant="ghost" class="justify-start text-base">网页地图
                                                     <Icon name="lucide:external-link" class="h-4 w-4" />
                                                 </UiButton>

@@ -11,7 +11,7 @@
           <h2 class="mt-8 flex flex-col text-2xl text-muted-foreground">追求 纯净 快乐 与 爱</h2>
           <div class="grid mt-8 md:flex w-full shrink-0 flex-col-reverse gap-3 md:mt-12 lg:w-auto lg:flex-row">
             <UiButton size="lg" class="w-full shrink-0 whitespace-nowrap md:w-auto" to="join" v-wave>加入</UiButton>
-            <a href="http://114.66.27.86:8100/" target="_blank">
+            <a href="http://202.189.9.217:38100/" target="_blank">
               <UiButton size="lg" class="w-full lg:w-auto" variant="outline">网页地图
                 <Icon name="lucide:external-link" class="h-4 w-4" />
               </UiButton>
