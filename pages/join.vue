@@ -40,12 +40,6 @@
                                 </div>
                                 <div v-if="passwordError" class="text-red-500 mt-2">
                                     密码错误，请重新输入！</div>
-                                  <a href="/rules" target="_blank" class="inline-flex items-center text-primary hover:underline">
-                                      <span class="mr-1">查看服务器规则</span>
-                                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
-                                      </svg>
-                                  </a>
                             </div>
                             <div v-else class="mt-6 p-4 bg-green-50 border border-green-200 rounded-lg">
                                 <h4 class="font-semibold text-green-700 mb-2">服务器地址已解锁</h4>
