@@ -131,17 +131,17 @@ const features1 = [
   {
     icon: "lucide:cat",
     title: "生电玩家友好",
-    description: `不修改原版特性，配置Carpet等调试类mod`,
+    description: `不修改原版特性，服务端配置Carpet、投影等功能类mod`,
   },
   {
     icon: "lucide:circle-arrow-up",
-    title: "定时备份",
-    description: `采用高效算法压缩备份空间，使备份可以快速频繁进行`,
+    title: "硬件配置",
+    description: `i9-14900k+24g内存，足以应对百分之九十以上生电机器的运行`,
   },
   {
     icon: "lucide:leaf",
-    title: "线程优化",
-    description: "服务器借助Lithium、Spark等不断优化, 减少卡顿"
+    title: "氛围友好",
+    description: "玩家氛围友好，平均在线时间长"
   },
   {
     icon: "lucide:cloud-sun",
@@ -152,7 +152,7 @@ const features1 = [
     icon: "lucide:shield-check",
     title: "数据安全",
     description:
-      "正版玩家使用官方UUID加密，离线玩家使用密码加密",
+      "采用哈希算法压缩备份，备份快速频繁定时进行，使游戏成果得到保护和尊重",
   },
   {
     icon: "lucide:terminal",
