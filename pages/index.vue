@@ -2,7 +2,7 @@
   <NuxtLayout>
     <UiContainer class="relative flex flex-col items-center justify-center gap-y-12 py-10 lg:h-[720px] lg:flex-row ">
       <img src="/assets/img/index/logo.png" alt="Server image"
-        :title="`Craft233 Server image`" class="h-[200px] object-cover md:w-[600px] lg:h-full" />
+        :title="`chspif Server image`" class="h-[200px] object-cover md:w-[600px] lg:h-full" />
       <div class="flex h-full items-center justify-center">
         <div>
           <h3 class="text-3xl font-semibold lg:text-5xl ">
@@ -103,7 +103,7 @@ import axios from 'axios';
 
 
 onMounted(async () => {
-  const response = await axios.get('https://api.mcsrvstat.us/3/mc.craft233.top');
+  const response = await axios.get('chspif.space');
   const playersNum = response.data.players.online;
   const players: number = playersNum as number;
   if (players > 2) {

@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
 
   site: {
-    url: 'https://www.craft233.top'
+    url: 'chspif.space'
   },
 
   modules: [
@@ -58,7 +58,7 @@ export default defineNuxtConfig({
       meta: [
         {
           name: "description",
-          content: "Craft233，一个休闲养老摸鱼系的Minecraft小服务器，欢迎加入我们，同我们一起成长！",
+          content: "chspif|纯净.快乐.爱",
         },
         {
           name: "robots",
@@ -74,15 +74,15 @@ export default defineNuxtConfig({
         },
         {
           property: "og:title",
-          content: "Craft233 ｜ 主页",
+          content: "chspif ｜ 主页",
         },
         {
           property: "og:url",
-          content: "https://www.craft233.top",
+          content: "chspif.space",
         },
         {
           property: "og:site_name",
-          content: "Craft233 ｜ 主页",
+          content: "chspif ｜ 主页",
         },
         {
           property: "og:image",
@@ -106,19 +106,19 @@ export default defineNuxtConfig({
         },
         {
           name: "twitter:title",
-          content: "Craft233 ｜ 主页",
+          content: "chspif ｜ 主页",
         },
         {
           property: "twitter:description",
-          content: "Craft233，一个休闲养老摸鱼系的Minecraft小服务器，欢迎加入我们，同我们一起成长！",
+          content: "chspif|纯净.快乐.爱",
         },
         {
           itemprop: "name",
-          content: "Craft233 | 主页",
+          content: "chspif | 主页",
         },
         {
           itemprop: "description",
-          content: "Craft233，一个休闲养老摸鱼系的Minecraft小服务器，欢迎加入我们，同我们一起成长！",
+          content: "chspif|纯净.快乐.爱",
         },
         {
           itemprop: "image",
@@ -126,7 +126,7 @@ export default defineNuxtConfig({
         },
         {
           itemprop: "description",
-          content: "Craft233，一个休闲养老摸鱼系的Minecraft小服务器，欢迎加入我们，同我们一起成长！",
+          content: "chspif|纯净.快乐.爱",
         },
       ],
       // script
